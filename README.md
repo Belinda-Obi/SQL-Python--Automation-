@@ -1,4 +1,4 @@
-# Project 1: SQL Server to Python Automation 🚲
+# Project 1: SQL Server to Python Automation 
 
 # Overview
 This project automates the extraction of luxury bike data from an AdventureWorks SQL Server database,
